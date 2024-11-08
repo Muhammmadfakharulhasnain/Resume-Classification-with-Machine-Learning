@@ -75,11 +75,3 @@ print("Predicted Category:", category_name)
 3. Make your changes and commit (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-This README file includes setup instructions, usage examples, and a project overview that should help users and contributors understand and navigate the project. Let me know if you'd like any adjustments!
